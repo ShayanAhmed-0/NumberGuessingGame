@@ -1,6 +1,4 @@
-# SHAYAN #
 ## Number Guessing Game ##
-
 
 NUmber Guessing Game in TyoeScript By Shayan.
 
